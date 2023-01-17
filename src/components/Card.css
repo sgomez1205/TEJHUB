@@ -1,0 +1,30 @@
+.container {
+  border: 1px  gray;
+  border-radius: 10px;
+  align-items:center;
+  cursor: pointer;
+  width: 400px;
+  margin: 10px 0px 10px 20px;
+  height: 350px;
+  padding:0;
+  text-align: center;
+  background-color: transparent;
+}
+
+.img-card {
+  background-color: transparent;
+  height: 280px;
+  width:80%;
+  border-radius: 10px;
+}
+
+.title {
+  font-size: large;
+  padding: 2px;
+  box-align: justify;
+}
+
+.description {
+  font-size: small;
+  padding: 0px 10px;
+}
